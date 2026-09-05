@@ -1,5 +1,5 @@
 export const GRADE_VALUES = {
-  one: { A1: 95, B2: 85, B3: 75, C4: 65, C5: 55, C6: 45, D7: 35, E8: null, F9: null },
+  one: { A1: 100, B2: 90, B3: 80, C4: 70, C5: 60, C6: 50, D7: 40, E8: null, F9: null },
   two: { A1: 95, B2: 85, B3: 75, C4: 65, C5: 55, C6: 45, D7: 35, E8: null, F9: null },
 }
 
