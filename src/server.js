@@ -1,7 +1,7 @@
 import 'dotenv/config'
 import express from 'express'
 import cors from 'cors'
-import calculateRoute from './routes/calculate.js'
+import calculateRoute from './routes/calculate.jsx'
 
 const app = express()
 const port = process.env.PORT || 5000
